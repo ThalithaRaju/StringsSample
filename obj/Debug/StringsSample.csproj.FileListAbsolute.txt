@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\bin\Debug\StringsSample.exe.config
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\bin\Debug\StringsSample.exe
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\bin\Debug\StringsSample.pdb
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\obj\Debug\StringsSample.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\obj\Debug\StringsSample.Form1.resources
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\obj\Debug\StringsSample.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\obj\Debug\StringsSample.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\obj\Debug\StringsSample.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\obj\Debug\StringsSample.exe
+C:\Users\Thalitha\source\repos\StringsSample\StringsSample\obj\Debug\StringsSample.pdb
